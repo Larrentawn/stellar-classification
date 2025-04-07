@@ -1,6 +1,6 @@
-#Stellar Classification Dataset
+# Stellar Classification Dataset
 
-##Context
+## Context
 
 In astronomy, stellar classification is the classification of stars based on their spectral characteristics. The classification scheme of galaxies, quasars, and stars is one of the most fundamental in astronomy. The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built. This datasat aims to classificate stars, galaxies, and quasars based on their spectral characteristics.
 Content
@@ -26,11 +26,11 @@ The data consists of 100,000 observations of space taken by the SDSS (Sloan Digi
     MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken
     fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
 
-###Citation
+### Citation
 
     fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
 
-###Acknowledgements
+### Acknowledgements
 
 The data released by the SDSS is under public domain. Its taken from the current data release RD17.
 
