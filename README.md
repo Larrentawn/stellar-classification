@@ -28,7 +28,7 @@ The data consists of 100,000 observations of space taken by the SDSS (Sloan Digi
 
 ### Citation
 
-    fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
+    fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved on Nov. 2024 from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
 
 ### Acknowledgements
 
